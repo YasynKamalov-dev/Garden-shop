@@ -991,3 +991,145 @@
     }
 }
 
+@media(max-width: 320px){
+    .login {
+        margin-left: 63px;
+    }
+    .hero-btn button {
+        left: 109px;
+        top: 230px;
+    }
+    .hero-img {
+        margin-bottom: 40px;
+        margin-top: 1px;
+    }
+    .main-txt h1 {
+        font-size: 19px;
+    }
+    .main-txt p {
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .count-with-bac h1 {
+        font-size: 26px;
+    }
+    .count-with-bac img {
+        width: 61px;
+        /* margin: 0px -9px; */
+    }
+    .project p {
+        margin-top: 80px;
+        font-size: 10px;
+    }
+    .prof-img {
+        width: 256px;
+    }
+    .profess-info h1 {
+        font-size: 19px;
+    }
+    .profess-info p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .arrow1 {
+        right: 36px;
+    }
+    .hero-btn1 .next {
+        font-size: 13px;
+    }
+    .service h1 {
+        font-size: 20px;
+    }
+    .service p {
+        font-size: 13px;
+        line-height: 19px;
+    }
+    .itself-block1 h1 {
+        font-size: 15px;
+    }
+    .itself-block2 h1 {
+        font-size: 15px;
+    }
+    .itself-block1 p {
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .itself-block2 p {
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .itself-block1 {
+        width: 173px;
+        padding: 12px 0px;
+        right: -33px;
+    }
+    .itself-block2 {
+        width: 173px;
+        padding: 12px 0px;
+        left: -41px;
+    }
+    .choose-title h1 {
+        font-size: 17px;
+    }
+    .choose-title p {
+        font-size: 14px;
+    }
+    .choose-block img {
+        width: 95px;
+    }
+    .choose-block h2 {
+        font-size: 15px;
+    }
+    .choose-block {
+        padding: 4px 24px 8px 29px;
+        width: 300px;
+    }
+    .stars {
+        display: flex;
+        align-items: center;
+        gap: 49px;
+        margin: 0px 0px 0px 0px;
+    }
+    .stars p {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .m {
+        margin-left: 46px;
+    }
+    .subs h1 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .subs p {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .sub-input-btn input {
+        width: 122.346px;
+        padding: 12px 76px 12px 10px;
+        margin: 0 45px 0 0;
+    }
+    .sub-input-btn button {
+        right: -3px;
+        padding: 13px 0px;
+        font-size: 12px;
+    }
+    .footer-remaining {
+        margin: 7px 0px;
+    }
+    .footer-main-img {
+        width: 304px;
+    }
+    .footer-remaining h1 {
+        font-size: 17px;
+    }
+    .header-navs-btn {
+        align-items: start;
+        gap: 53px;
+        padding: 29px 43px;
+    }
+    .header-logo.active {
+        display: none;
+    }
+}
